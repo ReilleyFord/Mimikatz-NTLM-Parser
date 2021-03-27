@@ -1,8 +1,8 @@
 # Mimikatz-NTLM-Parser
 Created by Reilley Ford
 
-Written in `C++ 17` Standard 
-Compiled with `GCC` version `9.2.0` using the command line. 
+Written in `C++ 17` Standard  
+Compiled with `GCC` version `9.2.0` using the command line.  
 
 This version includes an entire Visual Studio 2019 build if you require it. 
 
