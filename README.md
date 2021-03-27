@@ -2,7 +2,7 @@
 Created by Reilley Ford
 
 Written in `C++ 17` Standard  
-Compiled with `GCC` version `9.2.0` using the command line.  
+Compiled with `GCC` version `9.2.0` via `bash`.
 
 This version includes an entire Visual Studio 2019 build if you require it. 
 
